@@ -1,6 +1,6 @@
 # Amazon Quarterly Report RAG Chatbot
 
-**Author:** Akshat Garg  
+**Author:** Naman Agarwal 
 
 **Name:** Naman Agarwal
 
