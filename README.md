@@ -1,14 +1,14 @@
 # 📂 AI & Machine Learning Projects Portfolio
 
-**Name:** Akshat Garg  
+**Name:** Naman Agarwal 
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BAI10195
 
-**Application Number:** IN26011052
+**Application Number:** IN26009792
 
-**Batch Number:** 1A
+**Batch Number:** 2B
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** naman.23bai.10195@vitbhopal.ac.in 
 
 ---
 
@@ -152,5 +152,5 @@ Trains an autonomous spacecraft agent to safely land on a designated pad using *
 ---
 
 <p align="center">
-  <i>Built with ❤️ by Akshat Garg</i>
+  <i>Built by Naman</i>
 </p>
