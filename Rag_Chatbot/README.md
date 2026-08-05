@@ -2,13 +2,15 @@
 
 **Author:** Akshat Garg  
 
-**Registration Number:** 23BCE10641 
+**Name:** Naman Agarwal
 
-**Application Number:** IN26011052
+**Registration Number:** 23BAI10195
 
-**Batch Number:** 1A
+**Application Number:** IN26009792
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in  
+**Batch Number:** 2B
+
+**Email ID:** naman.23bai10195@vitbhopal.ac.in   
 
 A retrieval-augmented generation (RAG) chatbot that answers questions about
 Amazon's quarterly report (10-Q), grounded in the actual filing text — with
